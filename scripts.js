@@ -2,7 +2,7 @@
 function handleWhatsAppClick() {
     const phoneNumber = "5511999999999"; // Substitua pelo número real
     const message = "Olá! Gostaria de saber mais sobre os cursos do Instituto Profissional.";
-    const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+    const whatsappURL = `https://wa.me/${5569999878187}?text=${encodeURIComponent(message)}`;
     window.open(whatsappURL, '_blank');
 }
 
@@ -10,7 +10,7 @@ function handleWhatsAppClick() {
 function handleCourseWhatsApp(courseName) {
     const phoneNumber = "5511999999999"; // Substitua pelo número real
     const message = `Olá! Gostaria de saber mais sobre o curso de ${courseName}.`;
-    const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+    const whatsappURL = `https://wa.me/${5569999878187}?text=${encodeURIComponent(message)}`;
     window.open(whatsappURL, '_blank');
 }
 
